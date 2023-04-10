@@ -14,7 +14,7 @@
 - Click "Add to Playlist" to start building your master list!
 
 ## Website Link
-- 
+- https://cbae122.github.io/pear-music-project1/
 
 ![Pear-Music.](./assets/images/Screenshot%202023-04-06%20at%208.33.43%20PM.png)
 
